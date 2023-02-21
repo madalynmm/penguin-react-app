@@ -32,9 +32,9 @@
 }
 
 .form button {
-  padding: 0px 10px;
-  background-color: #A2A7A5;
+  padding: 2px 10px;
+  background-color: black;
   color: white;
   border-radius: 5px;
-  border-color: #A2A7A5;
+  border-color: black;
 }

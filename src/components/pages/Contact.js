@@ -35,12 +35,19 @@ function Form() {
     if (!validateEmail(email)) {
       setErrorMessage('Email is invalid');
       return;
+    } else if (name === '') {
+      setErrorMessage('Name is required');
+      return;
+    } else if (message === '') {
+      setErrorMessage('Message is required');
+      return;
     }
     alert(`Thank you for your submission!`);
 
     setName('');
     setEmail('');
     setMessage('');
+    setErrorMessage('');
   };
 
   return (
