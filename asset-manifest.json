@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/penguin-react-app/static/css/main.b2f5971c.css",
+    "main.js": "/penguin-react-app/static/js/main.68092643.js",
+    "static/media/mylibrary.png": "/penguin-react-app/static/media/mylibrary.03362c12181212c4d456.png",
+    "static/media/prof-pic-circle.png": "/penguin-react-app/static/media/prof-pic-circle.740ae1c755fd1d3462b4.png",
+    "static/media/flycast.png": "/penguin-react-app/static/media/flycast.eb1a0445d031278c01dd.png",
+    "static/media/linkedin-logo.png": "/penguin-react-app/static/media/linkedin-logo.ba884e1f9ad4362348c1.png",
+    "index.html": "/penguin-react-app/index.html",
+    "main.b2f5971c.css.map": "/penguin-react-app/static/css/main.b2f5971c.css.map",
+    "main.68092643.js.map": "/penguin-react-app/static/js/main.68092643.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2f5971c.css",
+    "static/js/main.68092643.js"
+  ]
+}
